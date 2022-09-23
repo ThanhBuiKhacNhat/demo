@@ -253,11 +253,9 @@ span {
     height: 300px;
     cursor: pointer;
     position: absolute;
-    left: calc(50% - 100px);
-    position: absolute;
 	left: 20%;
 	top: 50%;
-	transform: translate(-120%, -50%);
+	transform: translate(-100%, -50%);
 }
 
 .avatar__img2 {
@@ -265,11 +263,9 @@ span {
     height: 300px;
     cursor: pointer;
     position: absolute;
-    left: calc(50% - 100px);
-    position: absolute;
 	left: 20%;
 	top: 30%;
-	transform: translate(-100%, 97%);
+	transform: translate(-80%, 97%);
 }
 
 .avatar__img3 {
@@ -277,13 +273,21 @@ span {
     height: 300px;
     cursor: pointer;
     position: absolute;
-    left: calc(50% - 100px);
-    position: absolute;
 	left: 20%;
 	top: 30%;
-	transform: translate(200%, 97%);
+	transform: translate(300%, 97%);
 }
 
+
+.avatar__img4 {
+    width: 300px;
+    height: 300px;
+    cursor: pointer;
+    position: absolute;
+	left: 20%;
+	top: 5%;
+	transform: translate(320%, 97%);
+}
 
 .avatar__title {
     cursor: pointer;
