@@ -10,10 +10,10 @@ body {
         color-stop(0%, #374566),
         color-stop(100%, #010203)
     );
-    background-image: -webkit-radial-gradient(#dd46a3, #010203);
+    background-image: -webkit-radial-gradient(#c05396, #010203);
     background-image: -moz-radial-gradient(#dd46a3, #010203);
     background-image: -o-radial-gradient(#dd46a3, #010203);
-    background-image: radial-gradient(#dd46a3, #010203);
+    background-image: radial-gradient(#e151c4, #3b2a47);
     font-family: 'Lobster', cursive;
 }
 span {
@@ -256,6 +256,7 @@ span {
 	left: 20%;
 	top: 40%;
 	transform: translate(-70%, -50%);
+    border: 5px solid rgba(215, 81, 186, 0.9);
 }
 
 .avatar__img2 {
@@ -266,6 +267,7 @@ span {
 	left: 20%;
 	top: 40%;
 	transform: translate(-50%, 97%);
+    border: 5px solid rgba(215, 81, 186, 0.9);
 }
 
 .avatar__img3 {
@@ -275,7 +277,8 @@ span {
     position: absolute;
 	left: 20%;
 	top: 40%;
-	transform: translate(120%, 97%);
+	transform: translate(130%, 97%);
+    border: 5px solid rgba(215, 81, 186, 0.9);
 }
 
 
@@ -285,8 +288,9 @@ span {
     cursor: pointer;
     position: absolute;
 	left: 20%;
-	top: 10%;
-	transform: translate(140%, 97%);
+	top: 13%;
+	transform: translate(150%, 97%);
+    border: 5px solid rgba(215, 81, 186, 0.9);
 }
 
 .avatar__title {
