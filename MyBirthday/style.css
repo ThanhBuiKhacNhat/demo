@@ -23,7 +23,7 @@ span {
     width: 800px;
     height: 100%;
     padding: 10px;
-    margin: 10px auto;
+    margin: 10px 10px 10px 110px;
     position: relative;
 }
 .balloon {
@@ -253,45 +253,58 @@ span {
     height: 300px;
     cursor: pointer;
     position: absolute;
-	left: 20%;
+	left: 30%;
 	top: 40%;
 	transform: translate(-70%, -50%);
-    border: 5px solid rgba(215, 81, 186, 0.9);
+    
 }
 
 .avatar__img2 {
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 500px;
     cursor: pointer;
     position: absolute;
-	left: 20%;
-	top: 40%;
-	transform: translate(-50%, 97%);
-    border: 5px solid rgba(215, 81, 186, 0.9);
+	left: 17%;
+	top: 25%;
+	transform: translate(-50%, 110%);
+    
 }
 
 .avatar__img3 {
     width: 300px;
-    height: 300px;
+    height: 500px;
     cursor: pointer;
     position: absolute;
-	left: 20%;
-	top: 40%;
-	transform: translate(130%, 97%);
-    border: 5px solid rgba(215, 81, 186, 0.9);
+	left:-10%;
+	top: 30%;
+	transform: translate(250%, 97%);
 }
 
 
 .avatar__img4 {
-    width: 300px;
-    height: 300px;
+    width: 370px;
+    height: 370px;
     cursor: pointer;
     position: absolute;
-	left: 20%;
-	top: 13%;
-	transform: translate(150%, 97%);
-    border: 5px solid rgba(215, 81, 186, 0.9);
+	left: 0%;
+	top: 5%;
+	transform: translate(160%, 97%);
 }
+
+.avatar__img5{
+    width: 300px;
+    height: 150px;
+    cursor: pointer;
+    position: absolute;
+	left: 5%;
+	top: 50%;
+	transform: translate(-60%, 97%);
+    -webkit-animation: balloon1 6s ease-in-out infinite;
+    -moz-animation: balloon1 6s ease-in-out infinite;
+    -o-animation: balloon1 6s ease-in-out infinite;
+    animation: balloon1 6s ease-in-out infinite;
+}
+
 
 .avatar__title {
     cursor: pointer;
@@ -310,8 +323,8 @@ span {
     font-size: 1em;
 }
 span {
-    font-size: 4.8em;
-    color: white;
+    font-size: 8em;
+    color: rgb(255, 255, 255);
     position: relative;
     top: 30px;
     left: 50%;
@@ -470,7 +483,7 @@ h1 {
     top: 200px;
     text-align: center;
     color: white;
-    font-size: 3.5em;
+    font-size: 8em;
 }
 .swal-overlay {
     background-color: rgba(218, 57, 177, 0.45);
