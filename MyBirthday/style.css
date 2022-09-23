@@ -275,7 +275,7 @@ span {
     position: absolute;
 	left: 20%;
 	top: 40%;
-	transform: translate(220%, 97%);
+	transform: translate(180%, 97%);
 }
 
 
@@ -285,8 +285,8 @@ span {
     cursor: pointer;
     position: absolute;
 	left: 20%;
-	top: 0%;
-	transform: translate(240%, 97%);
+	top: 5%;
+	transform: translate(200%, 97%);
 }
 
 .avatar__title {
