@@ -254,8 +254,8 @@ span {
     cursor: pointer;
     position: absolute;
 	left: 20%;
-	top: 50%;
-	transform: translate(-100%, -50%);
+	top: 40%;
+	transform: translate(-70%, -50%);
 }
 
 .avatar__img2 {
@@ -264,8 +264,8 @@ span {
     cursor: pointer;
     position: absolute;
 	left: 20%;
-	top: 30%;
-	transform: translate(-80%, 97%);
+	top: 40%;
+	transform: translate(-50%, 97%);
 }
 
 .avatar__img3 {
@@ -274,8 +274,8 @@ span {
     cursor: pointer;
     position: absolute;
 	left: 20%;
-	top: 30%;
-	transform: translate(300%, 97%);
+	top: 40%;
+	transform: translate(220%, 97%);
 }
 
 
@@ -285,8 +285,8 @@ span {
     cursor: pointer;
     position: absolute;
 	left: 20%;
-	top: 5%;
-	transform: translate(320%, 97%);
+	top: 0%;
+	transform: translate(240%, 97%);
 }
 
 .avatar__title {
