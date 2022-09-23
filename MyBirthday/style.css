@@ -257,7 +257,7 @@ span {
     position: absolute;
 	left: 20%;
 	top: 50%;
-	transform: translate(-80%, -50%);
+	transform: translate(-120%, -50%);
 }
 
 .avatar__img2 {
@@ -269,7 +269,7 @@ span {
     position: absolute;
 	left: 20%;
 	top: 30%;
-	transform: translate(-90%, 97%);
+	transform: translate(-100%, 97%);
 }
 
 .avatar__img3 {
@@ -281,7 +281,7 @@ span {
     position: absolute;
 	left: 20%;
 	top: 30%;
-	transform: translate(320%, 97%);
+	transform: translate(200%, 97%);
 }
 
 
