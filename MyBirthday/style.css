@@ -255,10 +255,35 @@ span {
     position: absolute;
     left: calc(50% - 100px);
     position: absolute;
-	left: 50%;
-	top: 45%;
-	transform: translate(97%, -50%);
+	left: 20%;
+	top: 50%;
+	transform: translate(-20%, -50%);
 }
+
+.avatar__img2 {
+    width: 300px;
+    height: 300px;
+    cursor: pointer;
+    position: absolute;
+    left: calc(50% - 100px);
+    position: absolute;
+	left: 20%;
+	top: 30%;
+	transform: translate(-30%, 97%);
+}
+
+.avatar__img3 {
+    width: 300px;
+    height: 300px;
+    cursor: pointer;
+    position: absolute;
+    left: calc(50% - 100px);
+    position: absolute;
+	left: 20%;
+	top: 30%;
+	transform: translate(250%, 97%);
+}
+
 
 .avatar__title {
     cursor: pointer;
