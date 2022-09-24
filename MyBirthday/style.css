@@ -296,13 +296,10 @@ span {
     height: 150px;
     cursor: pointer;
     position: absolute;
-	left: 5%;
-	top: 50%;
+	left: 20%;
+	top: 40%;
 	transform: translate(-60%, 97%);
-    -webkit-animation: balloon1 6s ease-in-out infinite;
-    -moz-animation: balloon1 6s ease-in-out infinite;
-    -o-animation: balloon1 6s ease-in-out infinite;
-    animation: balloon1 6s ease-in-out infinite;
+    
 }
 
 
