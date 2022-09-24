@@ -10,10 +10,10 @@ body {
         color-stop(0%, #374566),
         color-stop(100%, #010203)
     );
-    background-image: -webkit-radial-gradient(#c05396, #010203);
-    background-image: -moz-radial-gradient(#dd46a3, #010203);
-    background-image: -o-radial-gradient(#dd46a3, #010203);
-    background-image: radial-gradient(#e151c4, #3b2a47);
+    background-image: -webkit-radial-gradient(#c05396, #844c83);
+    background-image: -moz-radial-gradient(#dd46a3, #844c83);
+    background-image: -o-radial-gradient(#dd46a3, #844c83);
+    background-image: radial-gradient(#e151c4, #ea4ac2);
     font-family: 'Lobster', cursive;
 }
 span {
